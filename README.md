@@ -49,7 +49,7 @@ screenshot-crawler/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/screenshot-crawler.git
+git clone https://github.com/luthfan98/screenshoot-crawl-web-automation.git
 cd screenshot-crawler
 ```
 
