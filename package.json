@@ -1,0 +1,15 @@
+{
+  "name": "website-screenshot-crawler",
+  "version": "1.0.0",
+  "description": "Crawl websites and take full-page screenshots organized per domain.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dayjs": "^1.11.9",
+    "fs-extra": "^11.2.0",
+    "puppeteer": "^21.3.8"
+  }
+}
